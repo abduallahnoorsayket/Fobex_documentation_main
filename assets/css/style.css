@@ -2435,6 +2435,25 @@ a.sidebar-link.active {
   vertical-align: middle;
   margin-right: 6px;
 }
+/* Custom css */
 section {
   padding: 1.7rem 0 0;
+}
+.hero {
+  min-height: 70vh;
+  margin: 30px 20px 0;
+  background: #070a52;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-primary {
+  color: #ffde00;
+}
+.heading-one {
+  color: #ffff;
+  font-size: 45px;
+}
+.hero-content {
+  max-width: 860px;
 }
