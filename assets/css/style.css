@@ -111,7 +111,7 @@ pre[class*="language-"] {
   color: #ec5975;
 }
 .theme-default-content code .token.inserted {
-  color: #43baff;
+  color: #ffde00;
 }
 .theme-default-content pre,
 .theme-default-content pre[class*="language-"] {
@@ -481,7 +481,7 @@ a {
 }
 a,
 p a code {
-  color: #43baff;
+  color: #ffde00;
 }
 p a code {
   font-weight: 400;
@@ -713,7 +713,7 @@ pre.vue-container > code em {
   pointer-events: none;
 }
 #nprogress .bar {
-  background: #43baff;
+  background: #ffde00;
   position: fixed;
   z-index: 1031;
   top: 0;
@@ -727,7 +727,7 @@ pre.vue-container > code em {
   right: 0;
   width: 100px;
   height: 100%;
-  box-shadow: 0 0 10px #43baff, 0 0 5px #43baff;
+  box-shadow: 0 0 10px #ffde00, 0 0 5px #ffde00;
   opacity: 1;
   transform: rotate(3deg) translateY(-4px);
 }
@@ -742,7 +742,7 @@ pre.vue-container > code em {
   width: 18px;
   height: 18px;
   box-sizing: border-box;
-  border-color: #43baff transparent transparent #43baff;
+  border-color: #ffde00 transparent transparent #ffde00;
   border-style: solid;
   border-width: 2px;
   border-radius: 50%;
@@ -782,7 +782,7 @@ html {
   bottom: 2rem;
   right: 2.5rem;
   width: 2rem;
-  color: #43baff;
+  color: #ffde00;
   z-index: 1;
 }
 .go-to-top[data-v-591d7001]:hover {
@@ -829,7 +829,7 @@ html {
 .vuepress-flowchart-loading-icon {
   width: 40px;
   height: 40px;
-  fill: #43baff;
+  fill: #ffde00;
 }
 .icon.outbound {
   color: #aaa;
@@ -882,7 +882,7 @@ html {
   display: inline-block;
   font-size: 1.2rem;
   color: #fff;
-  background-color: #43baff;
+  background-color: #ffde00;
   padding: 0.8rem 1.6rem;
   border-radius: 4px;
   transition: background-color 0.1s ease;
@@ -1009,7 +1009,7 @@ html {
   .algolia-docsearch-suggestion--category-header {
   padding: 5px 10px;
   margin-top: 0;
-  background: #43baff;
+  background: #ffde00;
   color: #fff;
   font-weight: 600;
 }
@@ -1137,7 +1137,7 @@ html {
 }
 .search-box input:focus {
   cursor: auto;
-  border-color: #43baff;
+  border-color: #ffde00;
 }
 .search-box .suggestions {
   background: #fff;
@@ -1173,7 +1173,7 @@ html {
   background-color: #f3f4f5;
 }
 .search-box .suggestion.focused a {
-  color: #43baff;
+  color: #ffde00;
 }
 @media (max-width: 959px) {
   .search-box input {
@@ -1352,7 +1352,7 @@ html {
   right: 1em;
   bottom: 1em;
   padding: 1em;
-  border: 1px solid #43baff;
+  border: 1px solid #ffde00;
   border-radius: 3px;
   background: #fff;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
@@ -1925,7 +1925,7 @@ html {
   font-weight: 600;
 }
 .dropdown-wrapper .mobile-dropdown-title font-size inherit:hover {
-  color: #43baff;
+  color: #ffde00;
 }
 .dropdown-wrapper .nav-dropdown .dropdown-item {
   color: inherit;
@@ -1958,13 +1958,13 @@ html {
 }
 .dropdown-wrapper .nav-dropdown .dropdown-item a.router-link-active,
 .dropdown-wrapper .nav-dropdown .dropdown-item a:hover {
-  color: #43baff;
+  color: #ffde00;
 }
 .dropdown-wrapper .nav-dropdown .dropdown-item a.router-link-active:after {
   content: "";
   width: 0;
   height: 0;
-  border-left: 5px solid #43baff;
+  border-left: 5px solid #ffde00;
   border-top: 3px solid transparent;
   border-bottom: 3px solid transparent;
   position: absolute;
@@ -2041,7 +2041,7 @@ html {
 }
 .nav-links a.router-link-active,
 .nav-links a:hover {
-  color: #43baff;
+  color: #ffde00;
 }
 .nav-links .nav-item {
   position: relative;
@@ -2256,11 +2256,11 @@ html {
 }
 .sidebar-heading.clickable.active {
   font-weight: 600;
-  color: #43baff;
-  border-left-color: #43baff;
+  color: #ffde00;
+  border-left-color: #ffde00;
 }
 .sidebar-heading.clickable:hover {
-  color: #43baff;
+  color: #ffde00;
 }
 .sidebar-group-items {
   transition: height 0.1s ease-out;
@@ -2283,12 +2283,12 @@ a.sidebar-link {
   box-sizing: border-box;
 }
 a.sidebar-link:hover {
-  color: #43baff;
+  color: #ffde00;
 }
 a.sidebar-link.active {
   font-weight: 600;
-  color: #43baff;
-  border-left-color: #43baff;
+  color: #ffde00;
+  border-left-color: #ffde00;
 }
 .sidebar-group a.sidebar-link {
   padding-left: 2rem;
@@ -2419,8 +2419,8 @@ a.sidebar-link.active {
 .bsa-cpc a._default_ .default-description:after {
   font-size: 0.85em;
   content: "Sponsored";
-  color: #1c90f3;
-  border: 1px solid #1c90f3;
+  color: #ffde00;
+  border: 1px solid #ffde00;
   border-radius: 3px;
   padding: 0 4px 1px;
   margin-left: 6px;
